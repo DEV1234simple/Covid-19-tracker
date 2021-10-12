@@ -1,3 +1,5 @@
+hey guys today i created covid 19 tracker test it on local host by npm run after cloning and downloading the zip file react js in command terminal of visual studio code
+feel free to fork pls give me a star
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
